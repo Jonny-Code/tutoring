@@ -9,11 +9,3 @@ Use [Create React App](https://create-react-app.dev/) to make a new React applic
 ```sh
 npx create-react-app new-app
 ```
-<hr>
-```sh
-npm init react-app new-app
-```
-<hr>
-```sh
-yarn create react-app new-app
-```
