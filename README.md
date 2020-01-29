@@ -6,6 +6,14 @@ Introduction into [React](https://reactjs.org/) with hooks and Bootstrap
 # Create React App
 Use [Create React App](https://create-react-app.dev/) to make a new React application
 
-```sh
+```
 npx create-react-app new-app
+```
+
+```
+npm init react-app new-app
+```
+
+```
+yarn create react-app new-app
 ```
