@@ -1,7 +1,19 @@
 # React-lessons
-Introduction into React with hooks and Bootstrap
+Introduction into [React](https://reactjs.org/) with hooks and Bootstrap
 
 ## Lesson 1 - package management with npm and yarn
+
+# Create React App
+Use [Create React App](https://create-react-app.dev/) to make a new React application
+
 ```sh
-npx || npm || yarn
+npx create-react-app new-app
+```
+<hr>
+```sh
+npm init react-app new-app
+```
+<hr>
+```sh
+yarn create react-app new-app
 ```
