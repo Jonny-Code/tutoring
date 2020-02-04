@@ -1,10 +1,14 @@
-## This is an introduction to [React](https://reactjs.org/) using React hooks and [Bootstrap](https://getbootstrap.com/)
+# Programming Lessons by Jonathan Sledge
 
-### Lesson 1 - Package management with [npm](https://www.npmjs.com/) and [yarn](https://legacy.yarnpkg.com/lang/en/)
+## HTML5/CSS3 and JavaScript
 
-## Create React App
-Use [Create React App](https://create-react-app.dev/) to make a new React application
+### HTML5/CSS3
+* HTML tags and their attributes.
+* CSS Flexbox
+* CSS framework [Bootstrap](https://getbootstrap.com/)
 
-```
-npx create-react-app new-app
-```
+### JavaScript
+* ES5+ syntax
+* DOM selection
+* Creating HTML elements
+* The [Node](https://nodejs.org/) runtime and JavaScript frameworks [React](https://reactjs.org/) and [Angular](https://angularjs.org/)
