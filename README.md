@@ -1,4 +1,4 @@
-# Programming Lessons by Jonathan Sledge
+# Programming Lessons
 
 ## HTML5/CSS3 and JavaScript
 
