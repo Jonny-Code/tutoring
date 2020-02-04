@@ -1,7 +1,7 @@
 # Programming Lessons
 
 
-## HTML5/CSS3 - JavaScript - Git
+## HTML5/CSS3, JavaScript, and Git
 
 
 ### HTML5/CSS3
